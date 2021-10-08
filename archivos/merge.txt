@@ -5,3 +5,7 @@ Aspiraciones con la materia: Aprender a modelar objetos para mejorar mis habilid
 
 Ahora sí se puede porque la carpeta no está vacía 
 
+¿Por qué es importante tener cuidado con modificar dos archivos al mismo tiempo?
+
+Sería complicado porque se pegaría al final de uno el resto del nuevo cambio, sin embargo,
+sería menos complicado que reemplazarlo completamente. 
