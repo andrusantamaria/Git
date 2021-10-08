@@ -1,3 +1,7 @@
+
 Nombre: Gonzalo Andrés Santamaría Chilamak
 Edad: 40
 Aspiraciones con la materia: Aprender a modelar objetos para mejorar mis habilidades en la creación y modelamiento de programas.
+
+Ahora sí se puede porque la carpeta no está vacía 
+
