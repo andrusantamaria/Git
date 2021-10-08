@@ -1,1 +1,0 @@
-Sin problemas, pero no me detecto el desktop cuando cree la carpeta, sí cuando creé un archivo dentro de la carpeta
