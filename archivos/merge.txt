@@ -1,0 +1,4 @@
+Nombre: Gonzalo Andrés Santamaría Chilamak
+Edad: 40
+Aspiraciones con la materia: Aprender a modelar objetos y programar también en Java
+
