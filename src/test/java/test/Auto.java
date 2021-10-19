@@ -9,6 +9,7 @@ public class Auto {
 	public int registro;
 	public static int cantidadCreados;
 	
+	
 	public int cantidadAsientos() {
 		int cantidad = 0;
 		for (int i=0; i<this.asientos.length; i++) {
